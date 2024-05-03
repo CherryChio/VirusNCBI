@@ -1,0 +1,32 @@
+---
+title: "Situacion Problema: MetS - Un Análisis Profundo"
+author: "Rocío Elysa Rodríguez Reza - A01563530"
+date: "2024-05-03"
+output:
+  pdf_document:
+    latex_engine: xelatex
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Courier New}
+  - \usepackage{xcolor}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## MetS: Un análisis profundo
+
+Durante el presente reto se investigará sobre uno de los síntomas que afecta en gran manera al país, para así determinar y establecer relaciones filogenéticas, junto con patrones y tendencias haciendo uso de herramientas de programación para establecer un análisis de datos.
+
+La humanidad se encuentra bajo \textcolor{red}{amenaza constante}.
+
+Se trata de enemigos silenciosos en nuestro interior,las enfermedades cardiovasculares y diabetes.
+
+Según la Federación Internacional de Diebetes, son las princiaples causas de mortalidad a nivel mundial, enfermedades no transmitibles realionadas con el \textcolor{blue}{Síndrome de Desorden Metabólico} (MetS).
+
+![El Síndrome de Desorden Metabólico y sus Consecuencias](images/sindrome.jpg){width="392"}
+
+En México, la Secretaría de la Salud reporta que la diabetes tiene una prevalencia de 18.3%, con una tasa anual de fallecimiento de \textcolor{red}{361} por cada 100 mil habitantes.
+
+Dadas estas cifras el reto consiste en desentrañar la interacción entre los factores genéticos, ambientales y de estilo de vida que contribuyen al desarrollo del síndrome metabólico, prestando mayor atención a la Diabetes.
